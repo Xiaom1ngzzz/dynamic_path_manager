@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/dynamic-path-manager)
 
+**Language**: [English](README.md) | [简体中文](README.zh.md)
+
 A Python context manager for temporarily adding and removing paths from `sys.path`. This is particularly useful when you need to dynamically import modules from different directories without permanently polluting your Python path.
 
 ## Features
