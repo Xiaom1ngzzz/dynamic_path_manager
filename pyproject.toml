@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dynamic-path-manager"
+version = "1.0.0"
 description = "A Python context manager for temporarily adding and removing paths from sys.path"
 readme = "README.md"
 license = { file = "LICENSE" }
